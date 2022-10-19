@@ -1,3 +1,8 @@
+" Name:             koben
+" Author:           GARSEC (Garuda Security)
+" Update:           2022-20-10 01:33:02
+" Groups:           telegram vim indonesia: https://t.me/VimID
+" License:          Garsec
 
 set background=dark
 highlight clear

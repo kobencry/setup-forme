@@ -1,7 +1,7 @@
 " Name:             koben
 " Author:           GARSEC (Garuda Security)
 " Update:           2022-26-9 01:43:02
-" Groups:           telegram vim indonesia: https://t.me/VimID 
+" Groups:           telegram vim indonesia: https://t.me/VimID
 
 set background=dark
 hi clear
