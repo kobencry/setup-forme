@@ -1,9 +1,13 @@
+" Name:             koben
+" Author:           GARSEC (Garuda Security)
+" Update:           2022-27-8 02:43:02
+" Groups:           telegram vim indonesia: https://t.me/VimID
+" License:          Garsec
+
 set background=dark
 hi clear
 let g:colors_name = "hello"
 
-" opsi terminal
-"t_Co jumlah warna
 let s:t_Co = exists('&t_Co') && !has('gui_running') ? &t_Co : -1
 
 if (has('termguicolors') && &termguicolors) || has('gui_running')

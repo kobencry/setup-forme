@@ -3,36 +3,7 @@
 " Update:           2022-27-8 02:43:02
 " Groups:           telegram vim indonesia: https://t.me/VimID
 " License:          Garsec
- 
-"Copyright (c) 2020 GARSEC (Garuda Security)
 
-"Izin dengan ini diberikan, gratis, kepada siapa pun yang mendapatkan salinannya
-"perangkat lunak ini dan file dokumentasi terkait ('Perangkat Lunak'), untuk menangani
-"dalam Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak
-"untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual
-"salinan Perangkat Lunak, dan untuk mengizinkan orang-orang yang menerima Perangkat Lunak tersebut
-"dilengkapi untuk melakukannya, dengan ketentuan sebagai berikut:
-
-"Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam
-"semua salinan atau bagian substansial dari Perangkat Lunak.
-
-"PERANGKAT LUNAK INI DISEDIAKAN 'SEBAGAIMANA ADANYA', TANPA JAMINAN APA PUN, TERSURAT ATAU
-"TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DIPERDAGANGKAN,
-"KESESUAIAN UNTUK TUJUAN TERTENTU DAN TANPA PELANGGARAN. DALAM HAL APAPUN
-"PENULIS ATAU PEMEGANG HAK CIPTA BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN ATAU LAINNYA
-"KEWAJIBAN, BAIK DALAM TINDAKAN KONTRAK, KERUGIAN ATAU LAINNYA, TIMBUL DARI,
-"DARI ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU TRANSAKSI LAINNYA DI
-"PERANGKAT LUNAK.
-
-" happy fun program
-"======================================
-"		8             8                   
-"		8             8                   
-"		8  .o  .oPYo. 8oPYo. .oPYo. odYo. 
-"		8oP'   8    8 8    8 8oooo8 8' `8 
-"		8 `b.  8    8 8    8 8.     8   8 
-"		8  `o. `YooP' `YooP' `Yooo' 8   8
-"======================================
 set background=dark
 hi clear
 "syntax reset
